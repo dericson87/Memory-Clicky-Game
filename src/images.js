@@ -70,8 +70,14 @@ import persian from './images/persian.jpg';
 import abra from './images/abra.jpg';
 import charmeleon from './images/charmeleon.jpg';
 import beedrill from './images/beedrill.jpg';
+import mewtwo from './images/mewtwo.jpg';
+import onix from './images/onix.jpg';
+import mrmime from './images/mrmime.png';
 
 const images = [
+  mewtwo,
+  onix,
+  mrmime,
   vulpix,
   persian,
   charmeleon,
