@@ -1,4 +1,4 @@
-# Memory-Clicky-Game
+# Poke-Click Memory Game
 
 https://pokemon-memory-click.herokuapp.com/
 
