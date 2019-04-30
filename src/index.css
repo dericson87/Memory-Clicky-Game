@@ -1,0 +1,13 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+    background-image:url("../src/images/mainbg.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+ 
