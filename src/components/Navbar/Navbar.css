@@ -72,8 +72,12 @@
     }
   
     .navbar div {
-    
       text-align: center;
-      
+    }
+  }
+
+  @media (max-width: 650px) {
+    .logo {
+      width:100% !important;
     }
   }
